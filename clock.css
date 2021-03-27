@@ -1,0 +1,16 @@
+#clock { 
+    font-size: 175px; 
+    width: 1000px; 
+    margin: auto; 
+    text-align: center; 
+    border: 2px solid black; 
+    border-radius: 20px; 
+    font-family: 'Shadows Into Light', cursive;
+    } 
+   
+#quote{
+    font-size: 70px;
+    margin: auto;
+    text-align: center;
+    font-family: 'Shadows Into Light', cursive;
+    }    
